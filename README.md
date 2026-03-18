@@ -1,14 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Silva</h1>
-<h3 align="center">💻 Desenvolvedor focado em construir soluções reais</h3>
+<h1 align="left">👋 Olá, eu sou o Gabriel Silva</h1>
 
-<p align="center">
-  <img src="https://github.com/gsilvacoelho-dev.png" width="150" style="border-radius: 50%" />
-</p>
-
----
-
-## 🚀 Sobre mim
-
+ 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos com **JavaScript, React e automações**
 - 💡 Criando soluções como:
   - Sistema financeiro
@@ -34,19 +26,29 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gsilvacoelho-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+<img 
+  align="left" 
+  alt="Estatísticas do GitHub" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=gsilvacoelho-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilvacoelho-dev&layout=compact&theme=tokyonight"/>
+<img 
+  align="left" 
+  alt="Tecnologias mais usadas" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilvacoelho-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
 </div>
+
+<br clear="both">
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-🚧 Em construção... (em breve seus projetos aqui)
-
-Exemplo:
 - 💰 FinanceGreen — Controle financeiro pessoal
 - 🤖 Bot Telegram Financeiro
 - 🥗 NutriuAI — Plataforma inteligente de alimentação
@@ -64,8 +66,8 @@ Exemplo:
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-coelho-ferro/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.instagram.com/gabrielsilvadcf/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
 </p>
 
