@@ -48,7 +48,7 @@
 
 ## 🔥 Projetos em Destaque
 
-- 🚀 **[5S Manager](https://github.com/gsilvacoelho-dev/5S-Manager)**  
+- 📊 **[5S Manager](https://github.com/gsilvacoelho-dev/5S-Manager)**  
   Sistema completo de gestão e auditoria 5S com Flask, SQLite e Bootstrap  
 
 - 💰 **FinanceGreen**  
