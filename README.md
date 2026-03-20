@@ -48,9 +48,17 @@
 
 ## 🔥 Projetos em Destaque
 
-- 💰 FinanceGreen — Controle financeiro pessoal
-- 🤖 Bot Telegram Financeiro
-- 🥗 NutriuAI — Plataforma inteligente de alimentação
+- 🚀 **[5S Manager](https://github.com/gsilvacoelho-dev/5S-Manager)**  
+  Sistema completo de gestão e auditoria 5S com Flask, SQLite e Bootstrap  
+
+- 💰 **FinanceGreen**  
+  Sistema de controle financeiro pessoal  
+
+- 🤖 **Bot Telegram Financeiro**  
+  Automação de finanças via Telegram  
+
+- 🥗 **NutriuAI**  
+  Plataforma inteligente de alimentação  
 
 ---
 
