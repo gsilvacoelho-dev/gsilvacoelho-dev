@@ -82,7 +82,7 @@
 
 ## ⚡ Frase que me define
 
-> "Não é sobre saber tudo, é sobre construir mesmo sem saber tudo."
+> "Desistir é fácil, continuar nos dias difíceis é o que define quem você se torna."
 
 ---
 
