@@ -6,7 +6,6 @@
   - Sistema financeiro
   - Plataforma Proprias
   - Bots para Telegram
-- 🎯 Foco em ganhar dinheiro com tecnologia
 - 📚 Estudando **Java para mercado de trabalho**
 - ⚡ Curto transformar ideias em produtos reais
 
@@ -16,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,php,laravel,python,mysql,bootstrap,git,github" />
+<img src="https://skillicons.dev/icons?i=js,react,typescript,python,flask,mysql,bootstrap,git,github" />
 
 </div>
 
