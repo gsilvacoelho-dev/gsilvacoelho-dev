@@ -57,7 +57,7 @@
 - 🤖 **Bot Telegram Financeiro**  
   Automação de finanças via Telegram  
 
-- 🥗 **NutriuAI**  
+- 🥗 **NutriUAI**  
   Plataforma inteligente de alimentação  
 
 ---
