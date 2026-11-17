@@ -22,17 +22,26 @@
 
 ## 🔥 Projetos em Destaque
 
+- 🥗 **https://nutriuai.com.br/**  
+  Plataforma de dieta e treino personalizados com IA generativa — React, TypeScript, Supabase e OpenAI API  
+  
+
+- 🎮 **(https://digitabrasil.site)**  
+  Plataforma gamificada de reforço escolar entregue para a Prefeitura de Várzea da Palma/MG — React, TypeScript e Tailwind CSS  
+  
+
 - 📊 **[5S Manager](https://github.com/gsilvacoelho-dev/5S-Manager)**  
   Sistema completo de gestão e auditoria 5S com Flask, SQLite e Bootstrap  
+  [`💻 Código`](https://github.com/gsilvacoelho-dev/5S-Manager)
 
 - 💰 **FinanceGreen**  
   Sistema de controle financeiro pessoal  
+  <!-- TODO: sem link. Torne o repositório público e troque a linha acima por:
+       - 💰 **[FinanceGreen](https://github.com/gsilvacoelho-dev/NOME-DO-REPO)** -->
 
 - 🤖 **Bot Telegram Financeiro**  
   Automação de finanças via Telegram  
-
-- 🥗 **NutriUAI**  
-  Plataforma inteligente de alimentação  
+  <!-- TODO: idem — sem repositório público hoje. -->
 
 ---
 
@@ -49,7 +58,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-coelho-ferro/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://www.instagram.com/gabrielsilvadcf/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:gsilvacoelhoferro@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
